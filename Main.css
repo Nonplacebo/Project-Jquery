@@ -1,0 +1,21 @@
+body {
+}
+
+
+.container {
+  padding-top: 100px;
+  margin: 0 auto;
+  width: 290px;
+}
+
+.block {
+  margin-right: 8px;
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  background-color: lavender;
+}
+
+.button {
+  margin: 0 auto;
+}
