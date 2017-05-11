@@ -1,21 +1,32 @@
 body {
+
 }
 
+.buttonContainer {
+  margin-left: 48%;
+}
 
 .container {
-  padding-top: 100px;
+  outline: 1px solid grey;
   margin: 0 auto;
-  width: 290px;
+  background-color: white;
+  height: 800px;
+  width: 800px;
+  overflow: auto;
 }
 
 .block {
-  margin-right: 8px;
+  border-radius: 50%;
+  overflow: hidden;
+  float: left;
   display: inline-block;
-  height: 10px;
-  width: 10px;
-  background-color: lavender;
+  background-color: white;
 }
 
-.button {
-  margin: 0 auto;
+.clear {
+
+}
+
+.change {
+
 }
